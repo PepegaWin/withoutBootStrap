@@ -1,0 +1,21 @@
+.try{
+    border:solid black 3px;
+    color: yellow;
+    background-color: teal;
+    align-self: center;
+    align-content: flex-end;
+    max-width: 500px;
+    margin: auto;
+    max-height: 500px;
+    padding: auto;
+    margin-top: 250px;
+}
+
+div{
+    background-color: blue;
+    color: yellow;
+    font-family: Arial;
+    align-self: center;
+    width: 165px;
+
+}
